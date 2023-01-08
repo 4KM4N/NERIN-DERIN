@@ -1,0 +1,7 @@
+echo "# NERIN-DERIN" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk taahhüt" 
+git şubesi -M ana 
+git uzak kaynak ekle git@github.com:4KM4N/NERIN-DERIN.git 
+git push -u kaynak ana
